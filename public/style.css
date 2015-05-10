@@ -1,0 +1,51 @@
+body {
+	background: #7f7ebe;
+	max-width: 600px;
+	margin: 0 auto;
+	margin-top: 100px;
+}
+
+div {
+	margin-bottom: 5px;
+}
+
+input {
+	padding: 5px;
+	font-size: 1.2em;
+	width: 100%;
+}
+
+textarea {
+	width: 100%;
+	max-width: 100%;
+	padding: 5px;
+	min-height: 80px;
+}
+
+button {
+	width: 100%;
+	font-size: 1.3em;
+	background: #49488e;
+	padding: 5px 0;
+	color: white;
+	border: none;
+	margin-top: 5px;
+}
+
+button:hover {
+	background: #3B3A72;
+}
+
+.qus {
+	margin-left: 6px;
+	margin-bottom: 0;
+	color: white;
+	width: 100%;
+}
+
+.addQuestion {
+	margin-top: 20px;
+	width: 100%;
+	padding: 10px;
+	background: rgba(0,0,0,.1);
+}
